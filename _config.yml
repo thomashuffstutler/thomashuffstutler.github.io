@@ -25,7 +25,7 @@ plugins:
 
 author:
   name: "Thomas Huffstutler"
-  avatar: "/assets/images/bio-photo.jpeg"
+  avatar: "/assets/images/bio_photo.jpeg"
   bio: "PhD candidate at Stony Brook CS."
   location: "Stony Brook, NY"
   links:
